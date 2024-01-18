@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Lost-Entrepreneur439",
+			"oem": "Samsung",
+			"device": "Galaxy S6",
+			"filename": "",
+			"download": "",
+			"timestamp": ,
+			"md5": "",
+			"sha256": "",
+			"size": ,
+			"version": "",
+			"buildtype": "Monthly",
+			"forum": "https://xdaforums.com/t/rom-unofficial-13-0-crdroid-9-for-samsung-galaxy-s6.4650597/",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://dl.twrp.me/zeroflte/twrp-3.3.1-0-zeroflte.img",
+			"paypal": "",
+			"telegram": "",
+			"dt": "https://github.com/samsungexynos7420/android_device_samsung_zerofltexx/tree/lineage-20",
+			"common-dt": "https://github.com/samsungexynos7420/android_device_samsung_universal7420-common/tree/lineage-20",
+			"kernel": "https://github.com/samsungexynos7420/android_kernel_samsung_universal7420/tree/lineage-20-temp"
+		}
+	]
+}
