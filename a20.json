@@ -17,7 +17,7 @@
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "https://dl.twrp.me/a20/twrp-3.7.0_9-0-a20.img.html",
+			"recovery": "https://dl.twrp.me/a20/twrp-3.7.0_9-0-a20.img",
 			"paypal": "",
 			"telegram": "",
 			"dt": "https://github.com/eurekadevelopment/android_device_samsung_exynos7885/tree/android-13/a20",
