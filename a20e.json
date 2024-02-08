@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20240207-a20e-v9.13.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/a20e/9.x/crDroidAndroid-13.0-20240207-a20e-v9.13.zip/download",
+			"timestamp": 1707333480,
+			"md5": "906c11e2580fb49bf14a45c50500addd",
+			"sha256": "e226f440e7f499ab3eec44a9528b013efd7e2b3fc608aeab8ee4a9a0b86d6f52",
+			"size": 889095063,
+			"version": "9.13",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

@@ -1,0 +1,58 @@
+====================
+     02-07-2024
+====================
+
+====================
+     02-06-2024
+====================
+
+====================
+     02-05-2024
+====================
+
+   * packages/apps/crDroidSettings
+3a736f9 New translations (#1122)
+
+====================
+     02-04-2024
+====================
+
+====================
+     02-03-2024
+====================
+
+====================
+     02-02-2024
+====================
+
+   * device/lineage/atv
+bed323e Revert "Enable bluetooth remote pairing in Setupwraith"
+
+====================
+     02-01-2024
+====================
+
+   * packages/apps/Aperture
+147e4ca Automatic translation import
+
+   * packages/apps/Etar
+d21eb31 Automatic translation import
+
+   * packages/apps/Jelly
+2974191 Automatic translation import
+
+   * vendor/crowdin
+8078dad Automatic translation import
+
+====================
+     01-31-2024
+====================
+
+====================
+     01-30-2024
+====================
+
+====================
+     01-29-2024
+====================
+
