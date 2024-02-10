@@ -1,7 +1,7 @@
-Highlights & Device Specific Changes:
-Build type: Monthly
-Device: Samsung Galaxy A20 (a20)
-Device maintainer: Lost-Entrepreneur439
+====================
+     02-10-2024
+====================
+   * Sync crDroid sources, updating to the February 2024 security patches.
 
 ====================
      01-31-2024
