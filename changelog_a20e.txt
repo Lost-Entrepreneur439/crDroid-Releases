@@ -1,4 +1,9 @@
 ====================
+     02-10-2024
+====================
+   * Sync crDroid sources, updating to the February 2024 security patches.
+
+====================
      02-07-2024
 ====================
 First release 
