@@ -17,7 +17,7 @@
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "",
+			"recovery": "https://github.com/fakemanoan/TWRP-Releases/releases/download/TWRP_3.7.0-9.0_19012024/TWRP_3.7.0-9.0_zeroflte_19012024.img",
 			"paypal": "",
 			"telegram": "",
 			"dt": "https://github.com/samsungexynos7420/android_device_samsung_zerofltexx",
