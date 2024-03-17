@@ -1,4 +1,10 @@
 ====================
+     03-17-2024
+====================
+  * Update to crDroid 9.15
+  * Fixed OTA support. Do note that fakemanoan's TWRP is required for OTA.
+
+====================
      02-10-2024
 ====================
   * Sync crDroid sources, updating to the February 2024 security patches.
